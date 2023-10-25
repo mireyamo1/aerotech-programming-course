@@ -1,3 +1,3 @@
 tuple_1 = (1, 1, 2, 3, 4, 5, 5, 5, 6)  # Do not modify this line.
-count_var = tuple_1.count(5)
-print("Number 5 appears", count_var, "times")
+count = tuple_1.count(5)
+print("Number 5 appears", count, "times")

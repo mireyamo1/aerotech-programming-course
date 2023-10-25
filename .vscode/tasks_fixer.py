@@ -14,7 +14,7 @@ Author:
 
 import re
 
-INTERPRETER = "INTERPRETER_PATH_GOES_HERE"
+INTERPRETER = "C:/Users/Usuario/AppData/Local/Programs/Python/Python312/python.exe"
 
 # Read data from tasks.json:
 with open(".vscode/tasks.json", mode="r", encoding="utf-8") as fp:
